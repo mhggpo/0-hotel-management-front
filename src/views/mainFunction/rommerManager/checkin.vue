@@ -642,7 +642,7 @@ export default {
 
 
       Time:[],
-      http: "http://localhost:8080/0_Hotel_Management_war/",
+      http: "http://localhost/0_Hotel_Management_war/",
       UserList: [
         {}
       ],
